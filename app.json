@@ -1,0 +1,14 @@
+{
+    "name": "cdddx",
+    "description": "dddg",
+    "logo":"gghrg",
+    "keywords": ["gr5dd"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/cssf45634/sdfsa353d.git",
+    "stack": "container"
+}
